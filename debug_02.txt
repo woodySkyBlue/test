@@ -1,0 +1,109 @@
+ReScanning Start.
+ReScanning Start.
+ReScanning Start.
+Advertised Device: Name: GX3RPro-O0103601-1RN, Address: ca:58:43:e8:0a:3c, serviceUUID: 5699d362-0c53-11e7-93ae-92361f002671, rssi: -49 
+Connect Event
+Connect PortableGasMonitor
+Connected.
+Connected.
+Connected.
+
+Connected.
+Disconnected.
+ReScanning Start.
+ReScanning Start.
+
+ReScanning Start.
+Advertised Device: Name: GX3RPro-O0103601-1RN, Address: ca:58:43:e8:0a:3c, serviceUUID: 5699d362-0c53-11e7-93ae-92361f002671, rssi: -98 
+Connect Event
+Disconnected.
+[Error] pClient->getService(SERVICE_UUID)
+[Error] Connect PortableGasMonitor
+ReScanning Start.
+ReScanning Start.
+
+ReScanning Start.
+Advertised Device: Name: GX3RPro-O0103601-1RN, Address: ca:58:43:e8:0a:3c, serviceUUID: 5699d362-0c53-11e7-93ae-92361f002671, rssi: -10 
+Connect Event
+Disconnected.
+[Error] pClient->getService(SERVICE_UUID)
+[Error] Connect PortableGasMonitor
+ReScanning Start.
+ReScanning Start.
+
+ReScanning Start.
+Advertised Device: Name: GX3RPro-O0103601-1RN, Address: ca:58:43:e8:0a:3c, serviceUUID: 5699d362-0c53-11e7-93ae-92361f002671, rssi: -10 
+Connect Event
+Connect PortableGasMonitor
+Connected.
+Connected.
+
+Connected.
+Disconnected.
+ReScanning Start.
+ReScanning Start.
+
+ReScanning Start.
+Advertised Device: Name: GX3RPro-O0103601-1RN, Address: ca:58:43:e8:0a:3c, serviceUUID: 5699d362-0c53-11e7-93ae-92361f002671, rssi: -10 
+Connect Event
+Connect PortableGasMonitor
+Connected.
+Connected.
+
+Connected.
+Disconnected.
+ReScanning Start.
+ReScanning Start.
+
+ReScanning Start.
+Advertised Device: Name: GX3RPro-O0103601-1RN, Address: ca:58:43:e8:0a:3c, serviceUUID: 5699d362-0c53-11e7-93ae-92361f002671, rssi: -10 
+Connect Event
+Connect PortableGasMonitor
+Connected.
+Connected.
+
+Connected.
+Disconnected.
+ReScanning Start.
+ReScanning Start.
+
+ReScanning Start.
+Advertised Device: Name: GX3RPro-O0103601-1RN, Address: ca:58:43:e8:0a:3c, serviceUUID: 5699d362-0c53-11e7-93ae-92361f002671, rssi: -10 
+Connect Event
+Connect PortableGasMonitor
+Connected.
+Connected.
+
+Connected.
+Disconnected.
+ReScanning Start.
+ReScanning Start.
+
+ReScanning Start.
+Advertised Device: Name: GX3RPro-O0103601-1RN, Address: ca:58:43:e8:0a:3c, serviceUUID: 5699d362-0c53-11e7-93ae-92361f002671, rssi: -10 
+Connect Event
+Disconnected.
+[Error] pClient->getService(SERVICE_UUID)
+[Error] Connect PortableGasMonitor
+ReScanning Start.
+ReScanning Start.
+
+ReScanning Start.
+Advertised Device: Name: GX3RPro-O0103601-1RN, Address: ca:58:43:e8:0a:3c, serviceUUID: 5699d362-0c53-11e7-93ae-92361f002671, rssi: -10 
+Connect Event
+Connect PortableGasMonitor
+Connected.
+Connected.
+
+Connected.
+Disconnected.
+ReScanning Start.
+ReScanning Start.
+
+ReScanning Start.
+Advertised Device: Name: GX3RPro-O0103601-1RN, Address: ca:58:43:e8:0a:3c, serviceUUID: 5699d362-0c53-11e7-93ae-92361f002671, rssi: -80 
+Connect Event
+Connect PortableGasMonitor
+Connected.
+Connected.
+Connected.
